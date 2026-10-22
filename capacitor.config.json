@@ -1,0 +1,16 @@
+{
+  "appId": "com.phimnow.app",
+  "appName": "Phim Now",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "phim.nguonc.com",
+      "*.nguonc.com",
+      "*"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
